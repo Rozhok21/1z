@@ -1,0 +1,7 @@
+D:\Учеба\УП_по_программированию\AAAA\1\yn\yn\bin\Debug\yn.exe.config
+D:\Учеба\УП_по_программированию\AAAA\1\yn\yn\bin\Debug\yn.exe
+D:\Учеба\УП_по_программированию\AAAA\1\yn\yn\bin\Debug\yn.pdb
+D:\Учеба\УП_по_программированию\AAAA\1\yn\yn\obj\Debug\yn.csproj.AssemblyReference.cache
+D:\Учеба\УП_по_программированию\AAAA\1\yn\yn\obj\Debug\yn.csproj.CoreCompileInputs.cache
+D:\Учеба\УП_по_программированию\AAAA\1\yn\yn\obj\Debug\yn.exe
+D:\Учеба\УП_по_программированию\AAAA\1\yn\yn\obj\Debug\yn.pdb
